@@ -1,5 +1,8 @@
 ---
 title: 引用页面的方式
+key: asd
+
+key2: zxc
 ---
 
 {% capture article %}
