@@ -11,11 +11,6 @@ key2: zxc
 
 使用html代码中的iframe标签，但要注意将网址中的&替换为`&amp;`,将<替换为`&lt;`，将>替换成`&gt;`。
 
-{% include templates/home.md %} 
-
-----------
-
-{% include test.md %} 
 
 使用代码
 
