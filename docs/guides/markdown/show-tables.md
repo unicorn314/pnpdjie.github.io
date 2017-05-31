@@ -6,6 +6,11 @@ title: 表格表示方式
 
 ## 表格表示方式
 
+
+{% include templates/home.md %} 
+
+{% include test.md %} 
+
 mackdown推荐的表格表示方式如下：
 
 	|ID    |Name    |Age  |
