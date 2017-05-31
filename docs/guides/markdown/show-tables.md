@@ -6,7 +6,8 @@ title: 表格表示方式
 
 ## 表格表示方式
 
-
+{% include templates/test.md %}
+{% include templates/home.md %}
 
 mackdown推荐的表格表示方式如下：
 
