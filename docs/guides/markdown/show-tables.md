@@ -7,9 +7,6 @@ title: 表格表示方式
 ## 表格表示方式
 
 
-{% include templates/home.md %} 
-
-{% include test.md %} 
 
 mackdown推荐的表格表示方式如下：
 
@@ -27,6 +24,7 @@ mackdown推荐的表格表示方式如下：
 
 也可以直接采用html标签，即html中的table、tr、th、td标签来生成表格。
 
+--------
 代码如下：
 
 	<table class="table table-bordered table-striped table-condensed">  
